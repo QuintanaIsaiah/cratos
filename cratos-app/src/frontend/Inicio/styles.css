@@ -1,0 +1,24 @@
+.btnInicio {
+    margin: 15px;
+}
+
+.btnBack {
+    margin: 30px;
+    margin-top: -10px;
+}
+
+.formulario {
+    margin: 30px;
+}
+
+.mainContainer {
+    margin: 30px;
+}
+
+.alert-fixed {
+    position: fixed;
+    top: 20px;
+    left: 47%;
+    transform: translateX(-50%);
+    z-index: 1000;
+  }

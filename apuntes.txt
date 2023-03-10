@@ -1,0 +1,7 @@
+1. INSTALO NODE JS
+https://nodejs.org/es/download/
+
+2. INSTALAR YARN:
+https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable
+
+3. DESDE VSC npx create-react-app cratos
