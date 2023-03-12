@@ -65,6 +65,10 @@ const Login = ({onLogin}) => {
     });
   };
 
+  if (showMain) {
+    return <Main />
+  }
+
   return (
     <>
       {error && (
@@ -99,7 +103,7 @@ const Login = ({onLogin}) => {
           Iniciar sesión
         </Button>
       </Form>
-      {showMain && <Main />}
+      {/* {showMain && <Main />} */}
     </>
   );
 };
